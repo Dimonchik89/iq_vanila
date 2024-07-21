@@ -1,0 +1,72 @@
+@import './styles/reset.css';
+@import './styles/vars.css';
+@import './styles/header.css';
+@import './styles/burger.css';
+@import './styles/main.css';
+@import './styles/text.css';
+@import './styles/button.css';
+@import './styles/sidebar.css';
+@import './styles/info.css';
+@import './styles/description.css';
+@import './styles/about.css';
+@import './styles/test.css';
+@import './styles/progress.css';
+@import './styles/border.css';
+@import './styles/spinner.css';
+@import './styles/result.css';
+
+html {
+  font-size: 10px;
+  font-family: 'Merriweather', serif;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.user-info {
+  display: flex;
+  margin-top: 1rem;
+  gap: 1rem;
+}
+
+.visible {
+  display: flex;
+}
+
+.hidden {
+  display: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.center {
+  justify-content: center;
+  align-items: center;
+}
+
+.gap-08 {
+  gap: 0.8rem;
+}
+
+.gap-2 {
+  gap: 2rem;
+}
+
+.gap-3 {
+  gap: 3rem;
+}
+
+.m-auto {
+  margin: 0 auto;
+}
+
+.width-full {
+  width: 100%;
+}

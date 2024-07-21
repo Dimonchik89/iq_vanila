@@ -1,0 +1,77 @@
+.result-info {
+  padding: 0 2.3rem 0 2.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8rem;
+  margin-bottom: 2.2rem;
+}
+
+.result-title {
+  margin-bottom: 1.2rem;
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+  letter-spacing: 0.18;
+  padding: 0 2.6rem;
+}
+
+.result-description {
+  margin: 0 2.9rem 0 3.5rem;
+}
+
+.result-description__content {
+  padding: 1.5rem 1.2rem 1rem 1.2rem;
+  border-radius: 0.6rem;
+  background-color: var(--dark-blue);
+}
+
+.result-text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 0.8rem;
+  line-height: 1.4rem;
+  letter-spacing: 0.2rem;
+}
+
+.result-call {
+  margin: 1.5rem 0 0.6rem;
+}
+
+.result-call__info {
+  font-size: 1.1rem;
+}
+
+.result-call__time {
+  font-size: 2rem;
+}
+
+.result-phone {
+  margin: 0 1.2rem 0 1.8rem;
+}
+
+.result-phone__wrapper {
+  background-color: var(--phone-bg);
+  border-radius: 0.6rem;
+  padding: 2.3rem 2.2rem 1.4rem 2.3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.8rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.result-phone__wrapper:hover {
+  background-color: var(--green);
+}
+
+.result-phone__text {
+  font-size: 1.4rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+.result-markup {
+  padding: 0 0.5rem;
+  margin-top: 0.5rem;
+  min-height: 3rem;
+}

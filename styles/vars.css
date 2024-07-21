@@ -1,0 +1,23 @@
+:root {
+  --orange: #ffc700;
+  --orange-hover: #ffb22c;
+  --white: #fff;
+  --white-window: #f3f3f2;
+  --dark-gray: #dadada;
+  --light-gray: #696969;
+  --disabled-text: #8e8e8e;
+  --button-title: #0d0c11;
+  --black: #000;
+  --test-page-bg: #0d0c11;
+  --progress: #979797;
+  --progress-success: #3bde7c;
+  --blue: #0000a9;
+  --dark-blue: #1c2741;
+  --green: #00a701;
+  --red: #f60100;
+  --yellow: #fdff19;
+  --brown: #a95403;
+  --violet: #850068;
+  --cyan: #46b2ac;
+  --phone-bg: #eb1b00;
+}

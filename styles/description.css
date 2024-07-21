@@ -1,0 +1,56 @@
+.description {
+  padding: 10rem 1.1rem 10rem 1.1rem;
+}
+
+.description-wrapper {
+  margin: 0 auto;
+  max-width: 60rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.description-text {
+  font-size: 2.8rem;
+  text-align: center;
+}
+
+.description-image__wrapper {
+  margin-top: 3.8rem;
+  margin-bottom: 1.5rem;
+}
+
+.description-image {
+  width: 40rem;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .description {
+    padding: 3.8rem 1.1rem 4rem 1.1rem;
+  }
+
+  .description-image {
+    width: 30rem;
+    height: auto;
+  }
+
+  .description-text {
+    max-width: 29rem;
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    letter-spacing: 0.08rem;
+    text-align: left;
+  }
+}
+
+@media (max-width: 640px) {
+  .description-wrapper {
+    max-width: 100%;
+  }
+
+  .description-image {
+    width: auto;
+    height: auto;
+  }
+}
