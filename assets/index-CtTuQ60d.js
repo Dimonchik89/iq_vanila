@@ -524,7 +524,7 @@
 
         <div class="flex flex-col center gap-2">
             <div>
-                <img src="/tests/test8.png" alt="test8" />
+                <img src="/iq_vanila/tests/test8.png" alt="test8" />
             </div>
 
             <form class="test-form">
@@ -636,7 +636,7 @@
 
         <div class="flex flex-col center gap-08">
             <div>
-                <img src="/tests/test10.png" alt="test10" />
+                <img src="/iq_vanila/tests/test10.png" alt="test10" />
             </div>
 
             <form class="test-form width-full">
@@ -690,7 +690,7 @@
 
         <div class="flex flex-col center gap-2">
             <div>
-                <img src="/tests/test11.png" alt="test11" />
+                <img src="/iq_vanila/tests/test11.png" alt="test11" />
             </div>
 
             <div class="border"></div>
