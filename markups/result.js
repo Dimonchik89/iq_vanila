@@ -28,7 +28,9 @@ export const result = `
 
         <div class="result-phone">
             <div class="result-phone__wrapper">
-                <img src="/icon/call.png" alt="call"/>
+                <img src="${
+                  import.meta.env.VITE_BASE_PATH
+                }/icon/call.png" alt="call"/>
                 <p class="result-phone__text text-white text-uppercase">позвонить и прослушать результат </p>
             </div>
         </div>
