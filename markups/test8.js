@@ -6,7 +6,9 @@ export const test8 = `
 
         <div class="flex flex-col center gap-2">
             <div>
-                <img src="/tests/test8.png" alt="test8" />
+                <img src="${
+                  import.meta.env.VITE_BASE_PATH
+                }/tests/test8.png" alt="test8" />
             </div>
 
             <form class="test-form">
