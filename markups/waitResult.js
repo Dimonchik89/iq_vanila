@@ -21,7 +21,7 @@ export const waitResult = `
             </div>
         </div>
 
-        <p class="text-white text-center">
+        <p class="text-white text-center text-md">
             Определение стиля мышления...........
             .... ...................................................
         </p>
